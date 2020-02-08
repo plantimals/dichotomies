@@ -1,0 +1,244 @@
+{
+  "dichotomies": [
+    {
+      "order": "",
+      "chaos": "",
+      "originator": "",
+      "description": ""
+    },
+    {
+      "order": "order",
+      "chaos": "chaos",
+      "originator": "originator",
+      "description": "description"
+    },
+    {
+      "order": "order",
+      "chaos": "chaos",
+      "originator": "",
+      "description": "the archetypal dichotomy"
+    },
+    {
+      "order": "form",
+      "chaos": "void",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "negentropy",
+      "chaos": "entropy",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "idealism",
+      "chaos": "realism",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "telos",
+      "chaos": "causality",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "ought",
+      "chaos": "is",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "relevant",
+      "chaos": "recent",
+      "originator": "@vancecrowe",
+      "description": ""
+    },
+    {
+      "order": "general",
+      "chaos": "specific",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "plato",
+      "chaos": "aristotle",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "induction",
+      "chaos": "deduction",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "heaven",
+      "chaos": "hell",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "intrinsic",
+      "chaos": "extrinsic",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "deontology",
+      "chaos": "utilitarianism",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "god",
+      "chaos": "satan",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "quality",
+      "chaos": "quantity",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "transcendent",
+      "chaos": "immanent",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "hedgehog",
+      "chaos": "fox",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "subject",
+      "chaos": "object",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "algorithm",
+      "chaos": "heuristic",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "buy",
+      "chaos": "sell",
+      "originator": "@vancecrowe",
+      "description": ""
+    },
+    {
+      "order": "digital",
+      "chaos": "analog",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "day",
+      "chaos": "night",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "meaning",
+      "chaos": "absurdity",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "apollonian",
+      "chaos": "dionysian",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "faraway",
+      "chaos": "mundane",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "math",
+      "chaos": "comedy",
+      "originator": "@vancecrowe",
+      "description": ""
+    },
+    {
+      "order": "reverence",
+      "chaos": "relevance",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "muscle",
+      "chaos": "fat",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "chess",
+      "chaos": "dice",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "board",
+      "chaos": "bag",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "bishop",
+      "chaos": "knight",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "chess",
+      "chaos": "go",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "theory",
+      "chaos": "practice",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "guns",
+      "chaos": "butter",
+      "originator": "@_Kate_Crosby_",
+      "description": ""
+    },
+    {
+      "order": "consistency",
+      "chaos": "availability",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "apotheosis",
+      "chaos": "apostasy",
+      "originator": "@vancecrowe",
+      "description": ""
+    },
+    {
+      "order": "willink",
+      "chaos": "watson",
+      "originator": "@plantimals",
+      "description": ""
+    },
+    {
+      "order": "plants",
+      "chaos": "animals",
+      "originator": "@plantimals",
+      "description": ""
+    }
+  ]
+}

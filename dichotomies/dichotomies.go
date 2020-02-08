@@ -13,6 +13,18 @@ type Dichotomy struct {
 	Description string `json:"description"`
 }
 
+//Dichotomies is the outer object for storing the list of dichotomoies
+type Dichotomies struct {
+	Dichotomies []*Dichotomy `json:"dichotomies"`
+}
+
+//NewDichotomies wraps a collection of dichotomies
+func NewDichotomies(d []*Dichotomy) *Dichotomies {
+	return &Dichotomies{
+		Dichotomies: d,
+	}
+}
+
 //ParseDichotomyFromTSV takes a raw TSV line and returns a pointer to a Dichotomy struct
 func ParseDichotomyFromTSV(line string) (*Dichotomy, error) {
 	data := strings.Split(line, "\t")

@@ -11,13 +11,15 @@ import (
 
 func main() {
 	input := os.Args[1]
-	ds := getDichotomiesFromTSV(input)
-	for _, d := range ds {
-		fmt.Println(json.Marshal(d))
+	d := getDichotomiesFromTSV(input)
+	ds, err := json.Marshal(d)
+	if err != nil {
+		panic(err)
 	}
+	fmt.Println(string(ds))
 }
 
-func getDichotomiesFromTSV(input string) []*dichotomies.Dichotomy {
+func getDichotomiesFromTSV(input string) *dichotomies.Dichotomies {
 	in, err := os.Open(input)
 	if err != nil {
 		panic(err)
@@ -25,6 +27,7 @@ func getDichotomiesFromTSV(input string) []*dichotomies.Dichotomy {
 	defer in.Close()
 	ds := bufio.NewScanner(in)
 	answers := make([]*dichotomies.Dichotomy, 0)
+	ds.Scan()
 	for ds.Scan() {
 		d, err := dichotomies.ParseDichotomyFromTSV(ds.Text())
 		if err != nil {
@@ -32,5 +35,5 @@ func getDichotomiesFromTSV(input string) []*dichotomies.Dichotomy {
 		}
 		answers = append(answers, d)
 	}
-	return answers
+	return dichotomies.NewDichotomies(answers)
 }
