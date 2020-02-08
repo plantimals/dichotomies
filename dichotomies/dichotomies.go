@@ -15,7 +15,7 @@ type Dichotomy struct {
 
 //ParseDichotomyFromTSV takes a raw TSV line and returns a pointer to a Dichotomy struct
 func ParseDichotomyFromTSV(line string) (*Dichotomy, error) {
-	data := strings.Split(line, "	")
+	data := strings.Split(line, "\t")
 	if len(data) != 4 {
 		return nil, fmt.Errorf("input line parsed into %v fields, but 4 fields are required", len(data))
 	}
