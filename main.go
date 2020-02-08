@@ -21,4 +21,5 @@ func getDichotomiesFromTSV(input string) *Dichotomy {
 	for ds.Scan() {
 		fmt.Println(ds.Text())
 	}
+	return &Dichotomy{}
 }
