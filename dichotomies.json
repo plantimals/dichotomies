@@ -1,243 +1,279 @@
 {
   "dichotomies": [
     {
-      "order": "",
-      "chaos": "",
-      "originator": "",
-      "description": ""
-    },
-    {
       "order": "order",
       "chaos": "chaos",
-      "originator": "originator",
-      "description": "description"
-    },
-    {
-      "order": "order",
-      "chaos": "chaos",
-      "originator": "",
+      "author": "plantimals",
       "description": "the archetypal dichotomy"
     },
     {
       "order": "form",
       "chaos": "void",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "in the beginning, before there were things, there was only the void. form requires the presence of matter. but isn't matter just made up of voids?"
     },
     {
       "order": "negentropy",
       "chaos": "entropy",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "entropy is a measure of chaos in matter or information. negentropy is the opposite, order. life can be thought of as a sustained gathering of negentropy."
     },
     {
       "order": "idealism",
       "chaos": "realism",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "ideas live in a realm beyond the noise of reality. the circle is an idea, with only imposters in the real world."
     },
     {
       "order": "telos",
       "chaos": "causality",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "all is causality at the bottom of it, but the human mind is too complex for us to introspect, so telos (goal-driven behavior) is a handle for thinking about systems with people."
     },
     {
       "order": "ought",
       "chaos": "is",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "there are statements about how the universe \"is\", truth of which lies outside the individual. then there are statements about the way the universe \"ought\" to be, these are not measurable, subjectivities."
     },
     {
       "order": "relevant",
       "chaos": "recent",
-      "originator": "@vancecrowe",
-      "description": ""
+      "author": "vancecrowe",
+      "description": "of all the events that happen, the \"recent\", only a subset of those will be \"relevant\". but relevant to what?"
     },
     {
       "order": "general",
       "chaos": "specific",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "specific truths are limited in scope, but numerous. generic truths are broad in scope, but smaller in number."
     },
     {
       "order": "plato",
       "chaos": "aristotle",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "platonic idealism suggests that form, or ideas, are something that lives apart from matter, while Aristotle suggests that the two are intermixed."
     },
     {
       "order": "induction",
       "chaos": "deduction",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "induction reasons from premises to generic conclusions, which are cast in terms of probability, where deduction starts from premises and constructs specific truths which must be true."
     },
     {
       "order": "heaven",
       "chaos": "hell",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "heaven is the eternity of perfect order, which is pathologically unchanging. hell is the eternity of perfect chaos, which is never the same."
     },
     {
       "order": "intrinsic",
       "chaos": "extrinsic",
-      "originator": "@plantimals",
-      "description": ""
+      "author": "plantimals",
+      "description": "the properties of a thing are indelibly wrought through its form, or they are purely part of the thing's relationship to its surroundings."
     },
     {
       "order": "deontology",
       "chaos": "utilitarianism",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "god",
       "chaos": "satan",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "quality",
       "chaos": "quantity",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "transcendent",
       "chaos": "immanent",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "hedgehog",
       "chaos": "fox",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "subject",
       "chaos": "object",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "algorithm",
       "chaos": "heuristic",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "buy",
       "chaos": "sell",
-      "originator": "@vancecrowe",
+      "author": "vancecrowe",
       "description": ""
     },
     {
       "order": "digital",
       "chaos": "analog",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "day",
       "chaos": "night",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "meaning",
       "chaos": "absurdity",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "apollonian",
       "chaos": "dionysian",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "faraway",
       "chaos": "mundane",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "math",
       "chaos": "comedy",
-      "originator": "@vancecrowe",
+      "author": "vancecrowe",
       "description": ""
     },
     {
       "order": "reverence",
       "chaos": "relevance",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "muscle",
       "chaos": "fat",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "chess",
       "chaos": "dice",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "board",
       "chaos": "bag",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
-      "order": "bishop",
-      "chaos": "knight",
-      "originator": "@plantimals",
-      "description": ""
+      "order": "♗",
+      "chaos": "♞",
+      "author": "plantimals",
+      "description": "the bishop runs along diagonals, always on the same color squares. the knight makes discontinuous leaps, always landing on a different color than it started from."
     },
     {
       "order": "chess",
       "chaos": "go",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "theory",
       "chaos": "practice",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "guns",
       "chaos": "butter",
-      "originator": "@_Kate_Crosby_",
+      "author": "_Kate_Crosby_",
       "description": ""
     },
     {
       "order": "consistency",
       "chaos": "availability",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "apotheosis",
       "chaos": "apostasy",
-      "originator": "@vancecrowe",
+      "author": "vancecrowe",
       "description": ""
     },
     {
       "order": "willink",
       "chaos": "watson",
-      "originator": "@plantimals",
+      "author": "plantimals",
       "description": ""
     },
     {
       "order": "plants",
       "chaos": "animals",
-      "originator": "@plantimals",
+      "author": "plantimals",
+      "description": ""
+    },
+    {
+      "order": "vector",
+      "chaos": "raster",
+      "author": "plantimals",
+      "description": ""
+    },
+    {
+      "order": "∞",
+      "chaos": "ε",
+      "author": "plantimals",
+      "description": ""
+    },
+    {
+      "order": "science",
+      "chaos": "sales",
+      "author": "chubbyemu",
+      "description": ""
+    },
+    {
+      "order": "spacers",
+      "chaos": "earthmen",
+      "author": "plantimals",
+      "description": ""
+    },
+    {
+      "order": "architects",
+      "chaos": "builders",
+      "author": "BenAnderson421",
+      "description": ""
+    },
+    {
+      "order": "sial",
+      "chaos": "sima",
+      "author": "plantimals",
+      "description": ""
+    },
+    {
+      "order": "leadership",
+      "chaos": "management",
+      "author": "plantimals",
+      "description": "where are we going vs how do we get there."
+    },
+    {
+      "order": "res cogitans",
+      "chaos": "res extensa",
+      "author": "plantimals",
       "description": ""
     }
   ]

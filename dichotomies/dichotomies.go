@@ -9,7 +9,7 @@ import (
 type Dichotomy struct {
 	Order       string `json:"order"`
 	Chaos       string `json:"chaos"`
-	Originator  string `json:"originator"`
+	Author      string `json:"author"`
 	Description string `json:"description"`
 }
 
@@ -34,7 +34,7 @@ func ParseDichotomyFromTSV(line string) (*Dichotomy, error) {
 	return &Dichotomy{
 		Order:       data[0],
 		Chaos:       data[1],
-		Originator:  data[2],
+		Author:      data[2],
 		Description: data[3],
 	}, nil
 }

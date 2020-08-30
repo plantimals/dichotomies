@@ -1,40 +1,47 @@
-			
-order	chaos	originator	description
-order	chaos		the archetypal dichotomy
-form	void	@plantimals	
-negentropy	entropy	@plantimals	
-idealism	realism	@plantimals	
-telos	causality	@plantimals	
-ought	is	@plantimals	
-relevant	recent	@vancecrowe	
-general	specific	@plantimals	
-plato	aristotle	@plantimals	
-induction	deduction	@plantimals	
-heaven	hell	@plantimals	
-intrinsic	extrinsic	@plantimals	
-deontology	utilitarianism	@plantimals	
-god	satan	@plantimals	
-quality	quantity	@plantimals	
-transcendent	immanent	@plantimals	
-hedgehog	fox	@plantimals	
-subject	object	@plantimals	
-algorithm	heuristic	@plantimals	
-buy	sell	@vancecrowe	
-digital	analog	@plantimals	
-day	night	@plantimals	
-meaning	absurdity	@plantimals	
-apollonian	dionysian	@plantimals	
-faraway	mundane	@plantimals	
-math	comedy	@vancecrowe	
-reverence	relevance	@plantimals	
-muscle	fat	@plantimals	
-chess	dice	@plantimals	
-board	bag	@plantimals	
-bishop	knight	@plantimals	
-chess	go	@plantimals	
-theory	practice	@plantimals	
-guns	butter	@_Kate_Crosby_	
-consistency	availability	@plantimals	
-apotheosis	apostasy	@vancecrowe	
-willink	watson	@plantimals	
-plants	animals	@plantimals	
+order	chaos	author	description
+order	chaos	plantimals	the archetypal dichotomy
+form	void	plantimals	in the beginning, before there were things, there was only the void. form requires the presence of matter. but isn't matter just made up of voids?
+negentropy	entropy	plantimals	entropy is a measure of chaos in matter or information. negentropy is the opposite, order. life can be thought of as a sustained gathering of negentropy.
+idealism	realism	plantimals	ideas live in a realm beyond the noise of reality. the circle is an idea, with only imposters in the real world.
+telos	causality	plantimals	all is causality at the bottom of it, but the human mind is too complex for us to introspect, so telos (goal-driven behavior) is a handle for thinking about systems with people.
+ought	is	plantimals	there are statements about how the universe "is", truth of which lies outside the individual. then there are statements about the way the universe "ought" to be, these are not measurable, subjectivities.
+relevant	recent	vancecrowe	of all the events that happen, the "recent", only a subset of those will be "relevant". but relevant to what?
+general	specific	plantimals	specific truths are limited in scope, but numerous. generic truths are broad in scope, but smaller in number.
+plato	aristotle	plantimals	platonic idealism suggests that form, or ideas, are something that lives apart from matter, while Aristotle suggests that the two are intermixed.
+induction	deduction	plantimals	induction reasons from premises to generic conclusions, which are cast in terms of probability, where deduction starts from premises and constructs specific truths which must be true.
+heaven	hell	plantimals	heaven is the eternity of perfect order, which is pathologically unchanging. hell is the eternity of perfect chaos, which is never the same.
+intrinsic	extrinsic	plantimals	the properties of a thing are indelibly wrought through its form, or they are purely part of the thing's relationship to its surroundings.
+deontology	utilitarianism	plantimals	
+god	satan	plantimals	
+quality	quantity	plantimals	
+transcendent	immanent	plantimals	
+hedgehog	fox	plantimals	
+subject	object	plantimals	
+algorithm	heuristic	plantimals	
+buy	sell	vancecrowe	
+digital	analog	plantimals	
+day	night	plantimals	
+meaning	absurdity	plantimals	
+apollonian	dionysian	plantimals	
+faraway	mundane	plantimals	
+math	comedy	vancecrowe	
+reverence	relevance	plantimals	
+muscle	fat	plantimals	
+chess	dice	plantimals	
+board	bag	plantimals	
+♗	♞	plantimals	the bishop runs along diagonals, always on the same color squares. the knight makes discontinuous leaps, always landing on a different color than it started from.
+chess	go	plantimals	
+theory	practice	plantimals	
+guns	butter	_Kate_Crosby_	
+consistency	availability	plantimals	
+apotheosis	apostasy	vancecrowe	
+willink	watson	plantimals	
+plants	animals	plantimals	
+vector	raster	plantimals	
+∞	ε	plantimals	
+science	sales	chubbyemu	
+spacers	earthmen	plantimals	
+architects	builders	BenAnderson421	
+sial	sima	plantimals	
+leadership	management	plantimals	where are we going vs how do we get there.
+res cogitans	res extensa	plantimals	
